@@ -1,4 +1,7 @@
-### Hi there 👋
+### 📫 How to reach me:
+Twitter: @knightowl604
+Discord: knightowl604#2301
+Telegram: @knightowl604
 
 <!--
 **knightowl604/Knightowl604** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
